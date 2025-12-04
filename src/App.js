@@ -153,7 +153,7 @@ function OverviewTab({ historyData, userEmail, userProfile, session, onNavigateT
                         <a href="#" style={{fontSize:'0.8rem', color:'#ea580c', cursor:'pointer'}} onClick={(e) => { 
                             e.preventDefault(); 
                             onNavigateToDocs(); // Chama a função que veio do Dashboard
-                        }}>Ver documento ➔</a>
+                        }}>Ver documentos ➔</a>
                     </div>
                 ))}
             </div>
