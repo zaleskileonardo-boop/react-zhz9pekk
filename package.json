@@ -1,0 +1,26 @@
+{
+  "name": "saas-contabilidade",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "2.86.2",
+    "canvg": "^4.0.3",
+    "dompurify": "^3.3.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "3.0.4",
+    "jspdf-autotable": "5.0.2",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
+    "react-is": "19.2.1",
+    "recharts": "3.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}
